@@ -1,0 +1,5 @@
+{
+  "name": "PlayDolar",
+  "description": "Sistema profissional de gerenciamento de banca financeira. 100% Client-side, sem backend.",
+  "requestFramePermissions": []
+}
