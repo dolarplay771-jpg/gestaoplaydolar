@@ -19,7 +19,7 @@
     "react-dom": "18.2.0",
     "react-hot-toast": "^2.6.0",
     "recharts": "2.12.0",
-    "supabase": "^2.76.16"
+    "supabase": "^2.98.2"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.9.1",
